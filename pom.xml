@@ -1958,7 +1958,7 @@
     <dependency>
       <groupId>org.springframework.security</groupId>
       <artifactId>spring-security-bom</artifactId>
-      <version>5.7.2</version>
+      <version>5.8.16</version>
     </dependency>
     <dependency>
       <groupId>org.springframework.security</groupId>
@@ -1973,7 +1973,7 @@
     <dependency>
       <groupId>org.springframework.security</groupId>
       <artifactId>spring-security-crypto</artifactId>
-      <version>5.7.2</version>
+      <version>5.8.16</version>
     </dependency>
     <dependency>
       <groupId>org.springframework.security</groupId>
